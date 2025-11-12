@@ -90,7 +90,7 @@ mysql.execute(text('COMMIT'))
 
 Uma view (pnad_covid_view) foi criada com o objetivo de facilitar consultas aos dados. Essa traz somente os dados os meses de setembro, outubro e novembro de campos consideradas mais relevantes para a análise, assim é possível manipular os dados de forma ágil, sem a necessidade de consultar a estrutura integral do banco.
 
-### Processamento dos dados
+### Processamento dos Dados
 
 A consulta dos dados da view foi realizada por meio da funcionalidade SQL do Apache Spark e, para otimizar o processamento, os resultados das queries foram exportados para arquivos CSV. Desse modo, evitou-se a leitura integral dos dados para geração de indicadores.
 
