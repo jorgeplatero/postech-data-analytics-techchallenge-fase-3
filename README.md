@@ -53,7 +53,7 @@ streamlit run app.py
 | **Linguagem** | **Python** | `>=3.11` | Linguagem para desenvolvimento de scripts |
 | **Gerenciamento** | **Venv** | `-` | Gerenciador de ambientes virtuais para isolamento de dependências |
 
-### Fonte de Dados
+### Fontes de Dados
 
 Os dados foram extraídos da pesquisa PNAD COVID-19 realizada pelo IBGE.
 
