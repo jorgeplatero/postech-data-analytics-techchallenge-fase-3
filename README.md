@@ -6,7 +6,7 @@ Este projeto consiste em um aplicativo web para análise dos dados da PNAD-COVID
 
 Certifique-se de ter o Python 3.11 instalado em seu sistema.
 
-Para sistemas baseados em Linux (Ubuntu/Debian), instale o suporte ao ambiente virtual:
+Instale o suporte ao ambiente virtual:
 
 ```bash
 sudo apt update && sudo apt install python3.11-venv
